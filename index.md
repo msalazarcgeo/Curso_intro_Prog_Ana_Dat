@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Bienvenidos
 
-You can use the [editor on GitHub](https://github.com/msalazarcgeo/Curso_intro_Prog_Ana_Dat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El siguiente es un curso de introducción a la programación, la intención aprender las cosas básicas de un lenguaje de programación (en este caso Python) para poder generar herramientas que les seran de utilidad para distintos proyectos. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Es importante aclarar que debido a los distintos perfiles a los cuales se encuentra enfocado este curso, así como la gran profundidad y diversidad de temas dentro de un lenguaje de programación, no es posible profundizar en muchos temas. Por tal motivo, se enfoca el curso hacia la enseñanza de los conceptos básicos de un lenguiaje de programación y al análisis de datos lo cual nos llevara a tener una noción extendida de como funcionan los lenguajes de programación así como muchas de sus estructuras.
 
-### Markdown
+El curso se encuentra dividido de la siguiente forma
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Instalación]
+* [Básicos]
+* [Dataframes]
+* [Limpieza de Datos]
+* [Manejo de datos]
+* [Visualización]
+* [Agrupación]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msalazarcgeo/Curso_intro_Prog_Ana_Dat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
