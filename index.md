@@ -6,7 +6,7 @@ Es importante aclarar que debido a los distintos perfiles a los cuales se encuen
 
 El curso se encuentra dividido de la siguiente forma
 
-* [Instalación](./Instalacion.ipynb)
+* [Instalación](./Instalacion.html)
 * [Básicos]
 * [Dataframes]
 * [Limpieza de Datos]
