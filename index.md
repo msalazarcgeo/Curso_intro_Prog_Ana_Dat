@@ -8,7 +8,7 @@ El curso se encuentra dividido de la siguiente forma
 
 * [Instalación](./Instalacion.html)
 * [Básicos](./Basicos.html)
-* [Dataframes]
+* [Dataframes](./Series_Dataframes.html)
 * [Limpieza de Datos]
 * [Manejo de datos]
 * [Visualización]
