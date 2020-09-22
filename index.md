@@ -16,3 +16,6 @@ El curso se encuentra dividido de la siguiente forma
 
 
 
+Tareas 
+
+* [Tarea 1 (Básicos de python)](./Tarea.html)
