@@ -16,3 +16,7 @@ El curso se encuentra dividido de la siguiente forma
 
 
 
+Tareas 
+
+* [Tarea 1 (Básicos de python)](./Tarea.html)
+* [Tarea 3 (Dataframe)](./Tarea_dataframes_funciones.html)
