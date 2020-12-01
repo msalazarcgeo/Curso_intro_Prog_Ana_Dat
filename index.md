@@ -17,7 +17,7 @@ El curso se encuentra dividido de la siguiente forma
 
 
 Clases
-* [Jueves 26 Nov](./Alumnos/Jueves_26_11_2020.ipynb)
+* [Jueves 26 Nov](./Alumnos/Jueves_26_11_2020.html)
 
 
 Tareas 
