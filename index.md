@@ -27,10 +27,11 @@ Tareas
 * [Tarea 1 (Básicos de python)](./Tarea.html)
 * [Tarea 3 (Dataframe)](./Tarea_dataframes_funciones.html)
 * [Tarea 4 (Dataframe Join)](./Tarea4.html)
-* [Tarea Geométrias y gráficas](./Tarea_dataframes_funciones.html)
+* [Tarea Geométrias y gráficas](./Tarea_graficas_geom.html)
 
 
 
 
 
 [Trabajo Final](./Trabajo_final.html)
+
