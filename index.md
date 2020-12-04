@@ -17,7 +17,9 @@ El curso se encuentra dividido de la siguiente forma
 
 
 Clases
+* [Martes 24 Nov](./Alumnos/Martes_24_11_2020.html)
 * [Jueves 26 Nov](./Alumnos/Jueves_26_11_2020.html)
+* [Martes 1 Dic](./Alumnos/Martes_1_12_2020.html )
 
 
 Tareas 
@@ -25,10 +27,11 @@ Tareas
 * [Tarea 1 (Básicos de python)](./Tarea.html)
 * [Tarea 3 (Dataframe)](./Tarea_dataframes_funciones.html)
 * [Tarea 4 (Dataframe Join)](./Tarea4.html)
-* [Tarea Geométrias y gráficas](./Tarea_dataframes_funciones.html)
+* [Tarea Geométrias y gráficas](./Tarea_graficas_geom.html)
 
 
 
 
 
 [Trabajo Final](./Trabajo_final.html)
+
